@@ -1,5 +1,6 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:07/05/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
